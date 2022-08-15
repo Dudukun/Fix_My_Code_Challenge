@@ -1,1 +1,1 @@
-Please take a look at my implementation of printing a square in Javascript:
+Please find here my implementation of a User class in Python
